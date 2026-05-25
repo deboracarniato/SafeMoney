@@ -1,0 +1,20 @@
+Regras do app SafeMoney
+
+A minha aplicação web será em HTML, CSS e JavaScript.
+
+O app é um controle financeiro chamado SafeMoney.
+
+Tela de cadastro:
+- Seção 1: dados pessoais (nome, email, senha).
+- Seção 2: informações financeiras (renda mensal, despesas).
+
+Após o cadastro:
+- O usuário será redirecionado para a tela principal.
+- A tela principal exibirá saldo disponível, total de gastos e resumo financeiro do mês.
+
+Paleta de cores:
+- #a7c957
+- #6a994e
+- #386641
+- #fffcf2
+- #f0ead2
